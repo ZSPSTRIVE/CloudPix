@@ -18,7 +18,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 
 /**
- * @author 李鱼皮
+ *
  * @description 针对表【space(空间)】的数据库操作Service实现
  * @createDate 2024-12-18 19:53:34
  */

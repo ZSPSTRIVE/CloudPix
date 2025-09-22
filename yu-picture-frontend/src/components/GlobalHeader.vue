@@ -90,8 +90,8 @@ const originItems = [
   },
   {
     key: 'others',
-    label: h('a', { href: 'https://www.codefather.cn', target: '_blank' }, '编程导航'),
-    title: '编程导航',
+    label: h('a', { href: 'https://chatgpt.com/c/68ceaf85-ad34-8327-82ee-431535220514', target: '_blank' }, 'ChatGPT'),
+    title: 'ChatGPT',
   },
 ]
 

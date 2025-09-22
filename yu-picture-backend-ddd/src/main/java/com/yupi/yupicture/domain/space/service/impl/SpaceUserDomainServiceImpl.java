@@ -8,7 +8,7 @@ import com.yupi.yupicture.interfaces.dto.spaceuser.SpaceUserQueryRequest;
 import org.springframework.stereotype.Service;
 
 /**
- * @author 李鱼皮
+ *
  * @description 针对表【space_user(空间用户关联)】的数据库操作Service实现
  * @createDate 2025-01-02 20:07:15
  */

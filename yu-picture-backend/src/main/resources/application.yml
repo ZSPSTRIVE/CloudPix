@@ -80,15 +80,15 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.yupi.yupicturebackend.controller
-## 对象存储配置（需要从腾讯云获取）
-#cos:
-#  client:
-#    host: xxx
-#    secretId: xxx
-#    secretKey: xxx
-#    region: xxx
-#    bucket: xxx
+cos:
+  client:
+    host:     # 可选，根据 SDK 需要填
+    secretId:  
+    secretKey:  
+    region:  
+    bucket:  
+    appId:  
 
 ## 阿里云 AI 配置
-#aliYunAi:
-#  apiKey: xxx
+aliYunAi:
+  apiKey: 
